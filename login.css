@@ -1,0 +1,40 @@
+
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(100deg, rgba(246, 187, 71, 0.856),rgb(247, 247, 247));
+}
+h1{
+    text-align: center;
+}
+.tela-login{
+    background-color: rgb(255, 255, 255);
+    position:absolute;
+    color: rgb(13, 15, 8);
+    top: 50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    padding: 80px;
+    border-radius: 05%;
+}
+input{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    padding: 10px;
+    outline: none;
+    font-size: 20px;
+}
+button{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(6, 6, 6);
+    color: aliceblue;
+    border: none;
+    padding: 10px;
+    width:100%;  
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(54, 244, 63);
+}
+a{
+    color: rgb(249, 249, 249);
+}
+  
